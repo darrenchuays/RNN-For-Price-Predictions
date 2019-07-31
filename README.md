@@ -2,6 +2,7 @@
 I used Pytorch/Keras LSTM to predict future prices for future use in portfolio allocation.
 
 Combined.csv contains the adjusted closing price of MCT, DBS, STEng and SIA
+
 Deterministic:
 
 -Single Day prediction looks back a period to predict the next day price (e.g. price from Day 1-30 to predict Day 31)
